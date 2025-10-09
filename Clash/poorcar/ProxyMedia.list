@@ -507,3 +507,8 @@ USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN,music.youtube.com
+
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,8.8.8.0/24,no-resolve
+IP-CIDR,8.8.4.0/24,no-resolve
+IP-CIDR,101.101.101.0/24,no-resolve
