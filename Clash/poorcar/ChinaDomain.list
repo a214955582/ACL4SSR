@@ -1,6 +1,8 @@
 # 直连列表
 
 # MyList
+DOMAIN,edgeone.ai
+DOMAIN-SUFFIX,tencentcloud.com
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,bokecc.com
