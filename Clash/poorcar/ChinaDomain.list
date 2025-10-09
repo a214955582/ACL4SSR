@@ -3,6 +3,9 @@
 # MyList
 DOMAIN,edgeone.ai
 DOMAIN-SUFFIX,tencentcloud.com
+DOMAIN-SUFFIX,cloudcachetci.com
+DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,tencentcs.com
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,bokecc.com
