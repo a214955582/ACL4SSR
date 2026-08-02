@@ -471,6 +471,7 @@ DOMAIN-SUFFIX,twitchcdn.net
 
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,tmdb.org
 
 # ViuTV
 USER-AGENT,Viu*
