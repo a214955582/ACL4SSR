@@ -193,9 +193,6 @@ DOMAIN-SUFFIX,fanart.tv
 # GitHub
 DOMAIN-KEYWORD,github
 
-DOMAIN-KEYWORD,google
-DOMAIN-SUFFIX,gstatic.com
-
 # HBO
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
@@ -525,6 +522,12 @@ USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN,music.youtube.com
+
+# Translate
+DOMAIN,fonts.googleapis.com
+DOMAIN-SUFFIX,translate.google.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleusercontent.com
 
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,8.8.8.0/24,no-resolve
