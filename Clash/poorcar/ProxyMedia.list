@@ -244,6 +244,8 @@ DOMAIN-SUFFIX,prod.hjholdings.tv
 DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,yb.uncn.jp
 
+DOMAIN-SUFFIX,imdb.com
+
 # ITV
 USER-AGENT,ITV_Player*
 DOMAIN,itvpnpmobile-a.akamaihd.net
@@ -468,6 +470,9 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitch-ext.rootonline.de
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
+
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,thetvdb.com
 
 # ViuTV
 USER-AGENT,Viu*
