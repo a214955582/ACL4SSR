@@ -524,8 +524,8 @@ USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN,music.youtube.com
 
 # Translate
-DOMAIN,fonts.googleapis.com
-DOMAIN-SUFFIX,translate.google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleusercontent.com
 
