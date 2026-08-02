@@ -120,6 +120,10 @@ DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
 
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,bangumi.tv
+DOMAIN-SUFFIX,chii.in
+
 # DAZN
 USER-AGENT,DAZN*
 DOMAIN-KEYWORD,voddazn
