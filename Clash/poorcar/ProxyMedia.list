@@ -1,7 +1,3 @@
-# 内容：国外媒体列表
-# 更新：2025-08-10 14:28:58
-# 数量：410条
-
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
@@ -171,6 +167,8 @@ DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
+
+DOMAIN-SUFFIX,dandanplay.net
 
 # EncoreTVB
 USER-AGENT,encoreTVB*
