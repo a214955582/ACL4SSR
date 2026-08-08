@@ -173,6 +173,7 @@ DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
 
 DOMAIN-SUFFIX,dandanplay.net
+DOMAIN-KEYWORD,docker
 
 # EncoreTVB
 USER-AGENT,encoreTVB*
